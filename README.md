@@ -1,30 +1,42 @@
 <!-- Banner -->
 <p align="center">
-  <img src="https://i.pinimg.com/originals/09/1b/6e/091b6e4c1e4ef6a1a3cc1b3bfb67a37e.gif" alt="anime girl" width="700"/>
+  <img src="https://i.pinimg.com/originals/09/1b/6e/091b6e4c1e4ef6a1a3cc1b3bfb67a37e.gif" alt="coding banner" width="700"/>
 </p>
 
-<h1 align="center"> Hey, I'm Chirayu </h1>
+<h1 align="center">Chirayu Malve</h1>
+<h3 align="center">Software Developer</h3>
 
 <p align="center">
-  <em>A focused mind with calm energy — building skills, breaking limits, and chasing mastery.</em>
+  <em>Building efficient solutions through clean code and systematic thinking</em>
 </p>
 
 ---
 
 ### 🧠 About Me  
-I'm a software developer focused on building a solid understanding of computer science and programming fundamentals.  
-I value writing efficient code and approaching problems with clarity and logic. 
----
-
-### 🧰 Tech Arsenal  
-
-| Languages | Libraries | Tools |
-|------------|------------|-------|
-| <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="40" height="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="40" height="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40"/> | NumPy, Matplotlib | Git, VS Code |
+I'm a software developer passionate about creating robust, efficient systems.  
+My focus is on writing clean, maintainable code and solving complex problems through logical reasoning and systematic approaches.
 
 ---
 
-### 🌐 Connect With Me  
+### 🛠️ Tech Stack
+
+<div align="center">
+  
+| **Languages** | **Libraries & Frameworks** | **Tools & Platforms** |
+|---------------|----------------------------|----------------------|
+| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="40" height="40" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="40" height="40" /> | NumPy<br>Matplotlib | Git<br>Blender<br>TouchDesigner |
+
+</div>
+
+
+---
+
+
+
+### 📫 Connect With Me
+
 <p align="center">
-  <a href="https://www.instagram.com/chirayumalve_"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
-  <a href="mailto:chirayumanojmalve@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&log
+  <a href="https://www.instagram.com/chirayumalve_">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
+</p>
