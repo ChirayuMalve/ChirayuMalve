@@ -22,17 +22,30 @@ My focus is on writing clean, maintainable code and solving complex problems thr
 
 <div align="center">
 
-| **Languages** | **Libraries & Frameworks** | **Tools & Platforms** |
-|--------------|----------------------------|------------------------|
-| 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="40" height="40" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40"/>
-| NumPy<br>Matplotlib<br>SQL | Git<br>Blender<br>TouchDesigner<br>Unreal Engine |
+<!-- Languages -->
+<h4>Languages</h4>
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="50" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="50" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="50" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="50" />
+</p>
+
+<!-- Libraries -->
+<h4>Libraries & Frameworks</h4>
+<p>
+  NumPy • Matplotlib • SQL
+</p>
+
+<!-- Tools -->
+<h4>Tools & Platforms</h4>
+<p>
+  Git • Blender • TouchDesigner • Unreal Engine
+</p>
 
 </div>
+
 
 
 
