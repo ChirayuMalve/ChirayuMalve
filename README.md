@@ -13,8 +13,8 @@
 ---
 
 ### 🧠 About Me  
-I'm a software developer passionate about creating robust, efficient systems.  
-My focus is on writing clean, maintainable code and solving complex problems through logical reasoning and systematic approaches.
+I'm a software developer focused on building efficient, reliable, and scalable systems.
+I enjoy writing clean, maintainable code and solving problems through systematic thinking and logical design.
 
 ---
 
