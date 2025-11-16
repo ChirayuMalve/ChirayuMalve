@@ -24,7 +24,7 @@ My focus is on writing clean, maintainable code and solving complex problems thr
   
 | **Languages** | **Libraries & Frameworks** | **Tools & Platforms** |
 |---------------|----------------------------|----------------------|
-| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="40" height="40" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="40" height="40" /> | NumPy<br>Matplotlib | Git<br>Blender<br>TouchDesigner |
+| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="40" height="40" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="40" height="40" /> | NumPy<br>Matplotlib<br>SQL | Git<br>Blender<br>TouchDesigner<br>Unreal Engine |
 
 </div>
 
