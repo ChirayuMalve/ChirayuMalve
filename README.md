@@ -1,6 +1,6 @@
 <!-- Banner -->
 <p align="center">
-  <img src="https://i.pinimg.com/originals/09/1b/6e/091b6e4c1e4ef6a1a3cc1b3bfb67a37e.gif" alt="coding banner" width="700"/>
+  <img src="https://user-images.githubusercontent.com/74038190/238353480-219bcc70-f5dc-466b-9a60-29653d8e8433.gif" width="400">
 </p>
 
 <h1 align="center">Chirayu Malve</h1>
