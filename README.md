@@ -35,16 +35,22 @@ My focus is on writing clean, maintainable code and solving complex problems thr
 <!-- Libraries -->
 <h4>Libraries & Frameworks</h4>
 <p>
-  NumPy • Matplotlib • SQL
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
+  <img src="https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" />
 </p>
 
 <!-- Tools -->
 <h4>Tools & Platforms</h4>
 <p>
-  Git • Blender • TouchDesigner • Unreal Engine
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/Blender-F5792A?style=for-the-badge&logo=blender&logoColor=white" />
+  <img src="https://img.shields.io/badge/TouchDesigner-000000?style=for-the-badge&logo=derivative&logoColor=white" />
+  <img src="https://img.shields.io/badge/Unreal%20Engine-0E1128?style=for-the-badge&logo=unrealengine&logoColor=white" />
 </p>
 
 </div>
+
 
 
 
